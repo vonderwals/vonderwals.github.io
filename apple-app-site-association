@@ -2,8 +2,8 @@
   "applinks": {
     "apps": [],
     "details": [{
-      "appID": "5PHGGKL9UQ.ru.avito.app",
-      "paths": ["*"]
+      "appID": "6JTC2J8AXT.ru.avito.app",
+      "paths": ["/*"]
     }]
   }
 }
